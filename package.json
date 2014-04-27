@@ -1,0 +1,27 @@
+{
+  "name": "es6-mix-it",
+  "version": "0.0.0",
+  "description": "A simple playground to try out JavaScript features coming in ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThibWeb/es6-mix-it"
+  },
+  "keywords": [
+    "es6",
+    "Mix-IT",
+    "playground"
+  ],
+  "author": "ThibWeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThibWeb/es6-mix-it/issues"
+  },
+  "homepage": "https://github.com/ThibWeb/es6-mix-it",
+  "devDependencies": {
+    "gulp": "^3.6.2"
+  }
+}
