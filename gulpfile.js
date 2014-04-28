@@ -9,7 +9,7 @@ var path = {
 gulp.task('compile', function() {
   gulp.src(path.src)
     .pipe(traceur({sourceMaps: true}))
-    .pipe(gulp.dest('compiled/src'));
+    .pipe(gulp.dest('compiled'));
 });
 
 
