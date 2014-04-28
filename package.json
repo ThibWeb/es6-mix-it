@@ -23,7 +23,6 @@
   "homepage": "https://github.com/ThibWeb/es6-mix-it",
   "devDependencies": {
     "gulp": "^3.6.2",
-    "gulp-connect": "^2.0.5",
     "gulp-traceur": "^0.4.0"
   }
 }
