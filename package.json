@@ -1,11 +1,7 @@
 {
   "name": "es6-mix-it",
-  "version": "0.0.0",
-  "description": "A simple playground to try out JavaScript features coming in ES6.",
-  "main": "index.js",
-  "scripts": {
-    "test": "karma start"
-  },
+  "version": "0.1.0",
+  "description": "A simple playground to try out JavaScript features coming in ES6, built in Traceur for the Mix-IT Conference.",
   "repository": {
     "type": "git",
     "url": "https://github.com/ThibWeb/es6-mix-it"

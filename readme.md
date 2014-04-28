@@ -1,7 +1,9 @@
 Mix-IT's ES6 Playground
 =======================
 
-> A simple playground to try out JavaScript features coming in ES6, built with [Traceur](https://github.com/google/traceur-compiler/).
+> A simple playground to try out JavaScript features coming in ES6, built with [Traceur](https://github.com/google/traceur-compiler/) for the [Mix-IT Conference](http://mix-it.fr/).
+
+Slides available at [talks.thib.me/es6-en-pratique](http://talks.thib.me/es6-en-pratique) and sources on [GitHub](https://github.com/ThibWeb/talks).
 
 ## Getting started
 
