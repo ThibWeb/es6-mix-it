@@ -4,19 +4,19 @@
   "description": "A simple playground to try out JavaScript features coming in ES6, built in Traceur for the Mix-IT Conference.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ThibWeb/es6-mix-it"
+    "url": "https://github.com/thibaudcolas/es6-mix-it"
   },
   "keywords": [
     "es6",
     "Mix-IT",
     "playground"
   ],
-  "author": "ThibWeb",
+  "author": "thibaudcolas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ThibWeb/es6-mix-it/issues"
+    "url": "https://github.com/thibaudcolas/es6-mix-it/issues"
   },
-  "homepage": "https://github.com/ThibWeb/es6-mix-it",
+  "homepage": "https://github.com/thibaudcolas/es6-mix-it",
   "devDependencies": {
     "gulp": "^3.6.2",
     "gulp-traceur": "^0.4.0"
